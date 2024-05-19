@@ -1,0 +1,2 @@
+# TypeScript_Practice_GovernerHouseClasses
+TypeScript governer house classes practice
